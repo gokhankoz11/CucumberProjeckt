@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-15T20:40:39 MEZ" name="All Test Suite" finished-at="2023-12-15T20:42:09 MEZ" duration-ms="90352">
+    <groups>
+    </groups>
+    <test started-at="2023-12-15T20:40:39 MEZ" name="GeneralStore Smoke Testler" finished-at="2023-12-15T20:42:09 MEZ" duration-ms="90352">
+      <class name="generalstore.tests.TC01_PozitifTest">
+        <test-method signature="tc01PozitifTest()[pri:0, instance:generalstore.tests.TC01_PozitifTest@3527942a]" started-at="2023-12-15T20:40:50 MEZ" name="tc01PozitifTest" finished-at="2023-12-15T20:41:50 MEZ" duration-ms="60964" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc01PozitifTest -->
+      </class> <!-- generalstore.tests.TC01_PozitifTest -->
+      <class name="generalstore.tests.TC02_NegatifTest">
+        <test-method signature="tc02NegatifTest()[pri:0, instance:generalstore.tests.TC02_NegatifTest@52719fb6]" started-at="2023-12-15T20:41:50 MEZ" name="tc02NegatifTest" finished-at="2023-12-15T20:42:09 MEZ" duration-ms="18926" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc02NegatifTest -->
+      </class> <!-- generalstore.tests.TC02_NegatifTest -->
+    </test> <!-- GeneralStore Smoke Testler -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
